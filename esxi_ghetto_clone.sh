@@ -1,4 +1,4 @@
-#!/bin/ash
+#!/bin/bash
 # Author: william2003[at]gmail[dot]com
 #	  duonglt[at]engr[dot]ucsb[dot]edu
 # Date: 09/30/2008
